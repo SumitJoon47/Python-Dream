@@ -1,0 +1,53 @@
+
+================================================================================
+DREAM ANALYSIS COMPREHENSIVE REPORT
+================================================================================
+
+DATASET OVERVIEW:
+- Total dreams analyzed: 131
+- Total words processed: 25,698
+- Unique dreamers: 6
+- Date range: 01/02/1981 to unknown
+
+CLUSTERING RESULTS:
+- Number of clusters: 5
+- Cluster sizes: {0: np.int64(13), 1: np.int64(55), 2: np.int64(17), 3: np.int64(31), 4: np.int64(15)}
+
+SENTIMENT ANALYSIS:
+- Average polarity: 0.067 (-1=negative, 0=neutral, +1=positive)
+- Average subjectivity: 0.431 (0=objective, 1=subjective)
+- Most positive cluster: Cluster 0
+- Most negative cluster: Cluster 2
+
+DREAM CHARACTERISTICS:
+- Average length: 196 words
+- Shortest dream: 51 words
+- Longest dream: 883 words
+
+TOP PSYCHOLOGICAL THEMES:
+Social            53
+Water             42
+Uncategorized     32
+Anxiety           29
+Fear/Chase        23
+Death             20
+Flying/Freedom    12
+
+TOP DREAM SYMBOLS:
+Vehicles    58
+Family      54
+Body        43
+Animals     36
+Nature      25
+
+TOPIC MODELING (LDA):
+
+Topic 0: wally, mom, driving, lot, snow, fell, dad, drive, road, ask
+Topic 1: he, she, there, her, up, then, this, out, like, as
+Topic 2: bike, sycamore, gardens, stop, lost, dreamt, main, keep, used, isnt
+Topic 3: sycamore, bike, bunker, mortars, wally, gardens, dance, together, mom, plane
+Topic 4: mortars, bunker, drop, seconds, such, begin, counter, most, during, hear
+
+================================================================================
+Report generated: 2025-11-23 14:25:56
+================================================================================
