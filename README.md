@@ -583,7 +583,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 
 - **Issues**: [GitHub Issues](https://github.com/SumitJoon47/dream-analysis-system/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/SumitJoon47/dream-analysis-system/discussions)
-- **Email**: your.email@example.com
+- **Email**: joonsumit18@gmail.com
 
 ---
 
