@@ -581,8 +581,8 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 
 ## 📞 Support & Questions
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/dream-analysis-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/dream-analysis-system/discussions)
+- **Issues**: [GitHub Issues](https://github.com/SumitJoon47/dream-analysis-system/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/SumitJoon47/dream-analysis-system/discussions)
 - **Email**: your.email@example.com
 
 ---
@@ -595,15 +595,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 - ✅ 9 visualizations
 - ✅ CSV export
 
-### Planned Features
-- [ ] Web interface dashboard
-- [ ] Real-time analysis streaming
-- [ ] Advanced NLP models (BERT, GPT)
-- [ ] Interactive visualizations (Plotly/Dash)
-- [ ] Database integration (PostgreSQL)
-- [ ] API endpoint for dream analysis
-- [ ] Multi-language support
-- [ ] Dream interpretation guide
+
 
 ---
 
@@ -622,9 +614,9 @@ If you use this project in research, please cite:
 ```bibtex
 @software{dream_analysis_2025,
   title={Dream Analysis System},
-  author={Your Name},
+  author={Sumit Joob},
   year={2025},
-  url={https://github.com/yourusername/dream-analysis-system}
+  url={https://github.com/SumitJoon47/dream-analysis-system}
 }
 ```
 
@@ -634,7 +626,7 @@ If you use this project in research, please cite:
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/dream-analysis-system.git
+git clone https://github.com/SumitJoon47/dream-analysis-system.git
 cd dream-analysis-system
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
@@ -653,9 +645,9 @@ cat outputs/reports/dream_analysis_report.txt
 
 <div align="center">
 
-**[Documentation](https://github.com/yourusername/dream-analysis-system/wiki)** • 
-**[Issues](https://github.com/yourusername/dream-analysis-system/issues)** • 
-**[Discussions](https://github.com/yourusername/dream-analysis-system/discussions)**
+**[Documentation](https://github.com/SumitJoon47/dream-analysis-system/wiki)** • 
+**[Issues](https://github.com/SumitJoon47/dream-analysis-system/issues)** • 
+**[Discussions](https://github.com/SumitJoon47/dream-analysis-system/discussions)**
 
 Made with ❤️ for dream enthusiasts and data scientists
 
